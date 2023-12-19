@@ -1,0 +1,8 @@
+{
+	"Version": "1.0.1",
+	"Download": "https://github.com/TeamNovaFR/AutoUpdaterPlugin/releases/latest/download/AutoUpdatingPlugin.dll",
+	"GameMinVersion": "1.0",
+	"GameMaxVersion": "99.99",
+	"MelonLoaderMinVersion": "0.5.4.0",
+	"MelonLoaderMaxVersion": "99.99.99.99"
+}
